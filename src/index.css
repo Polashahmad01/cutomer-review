@@ -147,6 +147,7 @@ Variables
   .title {
     text-align: center;
     margin-bottom: 4rem;
+    margin-top: 4rem;
   }
   .underline {
     height: 0.25rem;
@@ -158,6 +159,7 @@ Variables
   .container {
     width: 80vw;
     max-width: var(--fixed-width);
+    margin: auto;
   }
   .review {
     background: var(--clr-white);
