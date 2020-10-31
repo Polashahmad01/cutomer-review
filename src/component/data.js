@@ -29,4 +29,4 @@ const reviews = [
     }
 ];
 
-export default data;
+export default reviews;
